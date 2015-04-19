@@ -1,0 +1,2 @@
+# MyBB-Norsk
+MyBB-Norsk
